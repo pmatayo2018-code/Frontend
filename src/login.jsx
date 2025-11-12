@@ -14,7 +14,7 @@ function Login() {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const response = await axios.post('http://localhost:3000/login', { email, password });
+            const response = await axios.post('https://backend-app-mdhj.onrender.com/login', { email, password });
             console.log(response.data);
             alert('Login Successful');
             setEmail('');
