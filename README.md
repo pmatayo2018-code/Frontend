@@ -1,19 +1,19 @@
-# Your Brand Name
+# POM CAR MOTORS LIMITED
 Live Demo
 
 https://frontend-app-5u6h.onrender.com
 
 # Project Overview
 
-This website represents Your Brand, showcasing [your products/services/portfolio]. The goal was to create a modern, responsive, and user-friendly interface that aligns with the brand identity and enhances user engagement.
+This website represents POM, a trusted name in car sales and automotive services. The goal was to create a modern, responsive, and user-friendly platform that showcases a wide range of vehicles while reflecting the brand’s commitment to quality, reliability, and customer satisfaction. The design focuses on easy navigation, visual appeal, and clear presentation of car listings, allowing users to explore, compare, and connect effortlessly across all devices.
 
 # Brand Identity
 ## Color System
 
-* Primary: #1E40AF (Used for main buttons, headings, and highlights to convey trust and professionalism)
-* Secondary: #FACC15 (Used for accents, hover states, and call-to-action elements to create contrast)
-* Neutral: #F3F4F6 (Background and subtle UI elements for balance)
-* Error/Alert: #EF4444 (For warnings and validation errors)
+* Primary: RED (Used for main buttons, headings, and highlights to convey trust and professionalism)
+* Secondary: #Sky  (Used for accents, hover states, and call-to-action elements to create contrast)
+* Neutral: #white (Background and subtle UI elements for balance)
+* Error/Alert: #amber (For warnings and validation errors)
 
 
 # Typography
@@ -25,7 +25,7 @@ This website represents Your Brand, showcasing [your products/services/portfolio
 # Design Decisions
 ## Layout Adherence
 
-* Spacing follows a 4px grid system using Tailwind’s spacing utilities (p-4, m-6, etc.).
+* Spacing follows a 4px grid system using Tailwind’s spacing utilities.
 * Components and containers were aligned using Figma guides and Tailwind classes to ensure consistency across breakpoints.
 
 
@@ -50,11 +50,9 @@ This website represents Your Brand, showcasing [your products/services/portfolio
 
 
 # Image Credits
-
-* Unsplash
- for stock photography.
-* Icons8
- for iconography.
+* Cars of Motors – for original photos of vehicles and dealership imagery.
+* Unsplash – for additional stock photography.
+* Icons8 – for iconography used throughout the website.
 
 
 # Installation & Setup
@@ -66,19 +64,11 @@ Clone the repository:
 git clone https://github.com/yourusername/your-brand.git
 
 npm install
-
-
 npm run dev
-
 npm run build
-
-
 npm run preview
 
-
 ```
-
-
 # Technologies Used
 
 * React ^18.2.0
