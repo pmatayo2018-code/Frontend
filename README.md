@@ -51,22 +51,22 @@ This website represents POM, a trusted name in car sales and automotive services
 
 # Image Credits
 * Cars of Motors – for original photos of vehicles and dealership imagery.
-*Unsplash – for additional stock photography.
-*Icons8 – for iconography used throughout the website.
+* Unsplash – for additional stock photography.
+* Icons8 – for iconography used throughout the website.
 
 
 # Installation & Setup
 
-*Clone the repository:
+Clone the repository:
 
 ```bash
 
-*git clone https://github.com/yourusername/your-brand.git
+git clone https://github.com/yourusername/your-brand.git
 
-*npm install
-*npm run dev
-*npm run build
-*npm run preview
+npm install
+npm run dev
+npm run build
+npm run preview
 
 ```
 # Technologies Used
